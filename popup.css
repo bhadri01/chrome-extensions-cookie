@@ -43,8 +43,7 @@ h2 {
   max-width: 150px;
 }
 
-#export-button,
-#import-button {
+#export-button {
   background-color: #4caf50;
   color: white;
   border: none;
@@ -53,15 +52,8 @@ h2 {
   cursor: pointer;
   font-size: 14px;
   margin-top: 10px;
-  margin-right: 5px;
 }
 
-#export-button:hover,
-#import-button:hover {
+#export-button:hover {
   background-color: #45a049;
-}
-
-#file-input {
-  margin-top: 10px;
-  margin-right: 5px;
 }
